@@ -82,7 +82,7 @@
             "Key": "3911b4f0-d0e6-410a-b05c-af54c450fcdd",
             "Value": {
                 "id": "54a47b45-8256-49ec-826e-263f19838788",
-                "resourcePath": "sprites\\sprDollRifleAStand\\sprDollRifleAStand.yy",
+                "resourcePath": "sprites\\sprDollADummy\\sprDollADummy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -228,6 +228,14 @@
                 "id": "6c62c23f-5b30-424f-876d-9c2d37c1a61a",
                 "resourcePath": "views\\d48fae05-fb3d-462b-aecd-ee3772ac3be8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dce49713-ba36-4ad4-8bcf-68387679615c",
+            "Value": {
+                "id": "3dc1b6c6-31c2-4296-b246-5c7baead5dad",
+                "resourcePath": "sprites\\sprDollRifleA\\sprDollRifleA.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
