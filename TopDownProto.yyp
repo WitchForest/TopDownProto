@@ -55,10 +55,18 @@
             }
         },
         {
+            "Key": "26c9dcf1-2234-485c-b4ce-f8f191671204",
+            "Value": {
+                "id": "31fc8b74-6abe-47a2-b139-8ceeb4480668",
+                "resourcePath": "scripts\\MACROS\\MACROS.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2c612689-b024-40ee-b6d0-e280cec72750",
             "Value": {
                 "id": "c42840d1-208f-42d0-a1b6-c647d2b5eaf1",
-                "resourcePath": "objects\\objControlInputPlayer\\objControlInputPlayer.yy",
+                "resourcePath": "objects\\objPuppeteerPlayer\\objPuppeteerPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -98,8 +106,16 @@
             "Key": "4e3527a8-89f0-445e-bc8e-7fd8f328108a",
             "Value": {
                 "id": "f234a0c4-b465-4abc-ae3f-ce38e1bda6b5",
-                "resourcePath": "objects\\objEntityPlayer\\objEntityPlayer.yy",
+                "resourcePath": "objects\\objDollPlayer\\objDollPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56e36640-7a76-4457-a640-8cdcc5d5ea3d",
+            "Value": {
+                "id": "1133d009-8709-4715-bd31-389b13253140",
+                "resourcePath": "scripts\\DUMP\\DUMP.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -114,7 +130,7 @@
             "Key": "5f25dd94-920a-444b-a628-1b2ad335e569",
             "Value": {
                 "id": "23207b51-9425-43b8-be63-6b57479b02b9",
-                "resourcePath": "objects\\objEnityBase\\objEnityBase.yy",
+                "resourcePath": "objects\\objDollBase\\objDollBase.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -146,7 +162,7 @@
             "Key": "78e5753f-9010-4998-a36d-a8577e2833a3",
             "Value": {
                 "id": "9649a784-fc71-4da6-8b01-b35d8495957f",
-                "resourcePath": "objects\\objControlInputAI\\objControlInputAI.yy",
+                "resourcePath": "objects\\objPuppeteerAI\\objPuppeteerAI.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -212,6 +228,14 @@
                 "id": "bb0abfc7-25bc-4836-85dc-cde5942e4c92",
                 "resourcePath": "views\\c2688f48-27d4-4f99-9753-c376680111bf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c739ea0a-7aef-457c-8703-b09359e7104f",
+            "Value": {
+                "id": "f9863155-7cf5-43cf-bcf7-f183628f54e7",
+                "resourcePath": "objects\\objPuppeteerBase\\objPuppeteerBase.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -312,7 +336,8 @@
         }
     ],
     "script_order": [
-        
+        "26c9dcf1-2234-485c-b4ce-f8f191671204",
+        "56e36640-7a76-4457-a640-8cdcc5d5ea3d"
     ],
     "tutorial": ""
 }

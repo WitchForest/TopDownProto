@@ -1,8 +1,8 @@
 {
-    "id": "2c612689-b024-40ee-b6d0-e280cec72750",
+    "id": "c739ea0a-7aef-457c-8703-b09359e7104f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objControlInputPlayer",
+    "name": "objPuppeteerBase",
     "eventList": [
         
     ],

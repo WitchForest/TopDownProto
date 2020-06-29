@@ -1,8 +1,8 @@
 {
-    "id": "5f25dd94-920a-444b-a628-1b2ad335e569",
+    "id": "78e5753f-9010-4998-a36d-a8577e2833a3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objEnityBase",
+    "name": "objPuppeteerAI",
     "eventList": [
         
     ],

@@ -8,7 +8,7 @@
         "4e3527a8-89f0-445e-bc8e-7fd8f328108a"
     ],
     "filterType": "GMObject",
-    "folderName": "Entity",
+    "folderName": "Dolls",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
